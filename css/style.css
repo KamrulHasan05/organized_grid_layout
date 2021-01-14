@@ -1,0 +1,18 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 2px;
+	background-color: gray;
+	padding: 10px 0;
+}
+.box{
+	margin-bottom: 5px;
+	font-size: 20px;
+	color: white;
+	background-color: green;
+	border: 10px solid red;
+}
+.black{
+	background-color: black;
+}
+.teal{
+	background-color: teal;
+}
